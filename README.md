@@ -12,7 +12,7 @@
 
 ## Remix
 
-| Theme | Inherits |
+| Icon Theme | Inherits |
 | --- | --- |
 | [Ketsa-Light](https://github.com/samwhelp/ketsa-icon-theme-remix/tree/main/icons/Ketsa-Light) | [Papirus-Light,Numix-Circle-Light,Numix-Light,breeze,Adwaita,gnome,hicolor](https://github.com/samwhelp/ketsa-icon-theme-remix/blob/main/icons/Ketsa-Light/index.theme#L6) |
 | [Ketsa-Dark](https://github.com/samwhelp/ketsa-icon-theme-remix/tree/main/icons/Ketsa-Dark) | [Papirus-Dark,Numix-Circle,Numix,breeze-dark,Adwaita,gnome,hicolor](https://github.com/samwhelp/ketsa-icon-theme-remix/blob/main/icons/Ketsa-Dark/index.theme#L6) |
