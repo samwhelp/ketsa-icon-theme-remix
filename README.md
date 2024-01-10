@@ -7,7 +7,7 @@
 
 | Orginal | Remix |
 | --- | --- |
-| [canta-icon-theme](https://github.com/zayronxio/ketsa-icon-theme) | [ketsa-icon-theme-remix](https://github.com/samwhelp/ketsa-icon-theme-remix) |
+| [ketsa-icon-theme](https://github.com/zayronxio/ketsa-icon-theme) | [ketsa-icon-theme-remix](https://github.com/samwhelp/ketsa-icon-theme-remix) |
 
 
 ## Remix
